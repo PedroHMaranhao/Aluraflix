@@ -1,0 +1,33 @@
+{
+    "video" : [
+        {
+            "id": 1,
+            "titulo": "Métricas para o Front End com Mario Souto",
+            "descricao": "Métricas para o Front End com Mario Souto",
+            "img": "https://img.youtube.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
+            "categoria": "Front-end", 
+            "link": "https://www.youtube.com/embed/iVNR-6v8lZU?si=q1iwlOxjDzl1_9Q_"
+        },
+        {
+            "id": 2,
+            "titulo": "Programador Front-end Iniciante - APRENDA ISSO!",
+            "img": "https://img.youtube.com/vi/fX5WCe3d8WU/maxresdefault.jpg",
+            "categoria": "Front-end", 
+            "link": "https://www.youtube.com/embed/fX5WCe3d8WU?si=Ag_BpgIX4JiieSNg"
+        },
+        {
+            "id": 3,
+            "titulo": "Programador BACKEND: ROADMAP para Dev júnior 2025",
+            "img": "https://img.youtube.com/vi/CfoyVY1CJRk/maxresdefault.jpg",
+            "categoria": "Back-end", 
+            "link": "https://www.youtube.com/embed/CfoyVY1CJRk?si=ty_uSJsDiDloZq6Y"
+        },
+        {
+            "id": 4,
+            "titulo": "Físico da USP: Você Estudou Errado a Vida Inteira! - Gustavo Alves",
+            "img": "https://img.youtube.com/vi/aNF3rK37hLk/maxresdefault.jpg",
+            "categoria": "Inovação e Gestão", 
+            "link": "https://www.youtube.com/embed/aNF3rK37hLk?si=wEYZ33ZW33N6_-hZ"
+        }
+    ]
+}
