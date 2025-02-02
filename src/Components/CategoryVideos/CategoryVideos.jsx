@@ -1,13 +1,13 @@
 import React from "react";
 import { useVideoContext } from "../../Contexts/VideoContext";
 import Card from "../Card/Card";
-import { CategoryTitle, VideoList } from "./CategoryVideos.styled";
+import { CategoryContainer, CategoryTitle, VideoList } from "./CategoryVideos.styled";
 
 const CategoryVideos = ({ aoVideoSelecionado }) => {
   const { videoCategory } = useVideoContext();
 
   return (
-    <div>
+    <CategoryContainer>
       {Object.keys(videoCategory).map((category) => (
         <div key={category}>
           <CategoryTitle category={category}>{category}</CategoryTitle>
@@ -18,7 +18,7 @@ const CategoryVideos = ({ aoVideoSelecionado }) => {
           </VideoList>
         </div>
       ))}
-    </div>
+    </CategoryContainer>
   );
 };
 

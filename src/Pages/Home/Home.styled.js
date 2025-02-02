@@ -5,7 +5,6 @@ export const Main = styled.main`
 
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
+
   flex: 1;
 `;
